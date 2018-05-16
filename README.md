@@ -6,4 +6,4 @@ To run the election_dataset.ipynb notebook, you will first want to download the 
 
 wget https://www.dropbox.com/s/pvxqi8hzcf4fshr/Fl_Data.csv
 
-Thanks to Boris Muzellec for sharing his repository with me on which I build my own.
+Thanks to [Boris Muzellec](https://github.com/BorisMuzellec/TROT) for sharing his repository with me on which I build my own.
